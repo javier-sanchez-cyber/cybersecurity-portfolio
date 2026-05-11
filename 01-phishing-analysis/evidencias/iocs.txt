@@ -1,1 +1,33 @@
+# Indicadores de compromiso
 
+## Dominios
+
+microsoft365-support[.]com
+m365-helpdesk[.]com
+microsoft365-verification[.]com
+
+## URL
+
+hxxps://microsoft365-verification[.]com/login
+
+## IP
+
+203.0.113.45
+
+## Email sender
+
+security-alert@microsoft365-support[.]com
+
+## Reply-To
+
+support-verification@m365-helpdesk[.]com
+
+## Observaciones
+
+- Dominio similar a Microsoft 365, pero no oficial.
+- SPF fallido.
+- DKIM ausente.
+- DMARC fallido.
+- Reply-To diferente al dominio del remitente.
+- Uso de urgencia y amenaza de bloqueo de cuenta.
+- Posible intento de robo de credenciales.
