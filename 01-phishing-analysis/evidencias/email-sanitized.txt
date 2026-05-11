@@ -1,1 +1,19 @@
-Pending evidence content
+From: Microsoft 365 Security Team <security-alert@microsoft365-support[.]com>
+To: user@example.com
+Subject: Acción requerida: su cuenta será bloqueada
+
+Estimado usuario,
+
+Hemos detectado actividad inusual en su cuenta de Microsoft 365.
+
+Por motivos de seguridad, su acceso será suspendido en las próximas 24 horas si no verifica su identidad.
+
+Para evitar la interrupción del servicio, acceda al siguiente enlace y confirme sus credenciales:
+
+hxxps://microsoft365-verification[.]com/login
+
+Si no completa este proceso, su cuenta será bloqueada automáticamente.
+
+Atentamente,
+
+Microsoft 365 Security Team
