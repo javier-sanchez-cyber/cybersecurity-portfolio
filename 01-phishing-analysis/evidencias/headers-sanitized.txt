@@ -1,1 +1,15 @@
-Pending evidence content.
+Return-Path: <security-alert@microsoft365-support[.]com>
+Received: from unknown-host.example.net (unknown-host.example.net [203.0.113.45])
+    by mail.example.com with ESMTP id ABC123
+    for <user@example.com>; Mon, 12 May 2026 09:14:22 +0000
+Received-SPF: fail (example.com: domain of microsoft365-support[.]com does not designate 203.0.113.45 as permitted sender)
+Authentication-Results: mail.example.com;
+    spf=fail smtp.mailfrom=microsoft365-support[.]com;
+    dkim=none;
+    dmarc=fail header.from=microsoft365-support[.]com
+From: Microsoft 365 Security Team <security-alert@microsoft365-support[.]com>
+Reply-To: support-verification@m365-helpdesk[.]com
+To: user@example.com
+Subject: Acción requerida: su cuenta será bloqueada
+Date: Mon, 12 May 2026 09:13:55 +0000
+Message-ID: <20260512091355.12345@microsoft365-support[.]com>
